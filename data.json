@@ -57,13 +57,7 @@
     "2026-05-02": "okay"
   },
   "checks": {
-    "2026-05-02": {
-      "on_time": true,
-      "homework": true,
-      "reading": true,
-      "tidy": true,
-      "kindness": true
-    }
+    "2026-05-02": {}
   },
   "settings": {
     "reminder_time": "",
