@@ -1,0 +1,35 @@
+{
+  "version": 2,
+  "subjects": [
+    {
+      "id": "s1",
+      "name": "Математика",
+      "icon": "∑",
+      "unit": "заданий",
+      "target": 10
+    },
+    {
+      "id": "s2",
+      "name": "Английский",
+      "icon": "A",
+      "unit": "упражнений",
+      "target": 8
+    },
+    {
+      "id": "s3",
+      "name": "Чтение",
+      "icon": "📖",
+      "unit": "страниц",
+      "target": 30
+    }
+  ],
+  "progress": {},
+  "notes": {},
+  "moods": {},
+  "checks": {},
+  "settings": {
+    "reminder_time": "22:45",
+    "child_name": "Imron",
+    "class_name": "Grade 8"
+  }
+}
