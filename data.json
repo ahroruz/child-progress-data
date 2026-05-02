@@ -60,7 +60,9 @@
     "2026-05-02": "okay"
   },
   "checks": {
-    "2026-05-02": {}
+    "2026-05-02": {
+      "reading": true
+    }
   },
   "settings": {
     "reminder_time": "",
