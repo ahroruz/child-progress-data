@@ -3,9 +3,9 @@
   "subjects": [
     {
       "id": "s1",
-      "name": "Math Homework",
+      "name": "Daily math exercises",
       "icon": "∑",
-      "unit": "Daily math exercises",
+      "unit": "exercises",
       "target": 15
     },
     {
