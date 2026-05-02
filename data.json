@@ -62,7 +62,8 @@
   "checks": {
     "2026-05-02": {
       "reading": true,
-      "on_time": true
+      "on_time": true,
+      "kindness": true
     }
   },
   "settings": {
