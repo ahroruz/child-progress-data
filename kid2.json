@@ -3,7 +3,7 @@
   "subjects": [
     {
       "id": "s1",
-      "name": "Математика",
+      "name": "SAT-Maths",
       "icon": "∑",
       "unit": "заданий",
       "target": 10
@@ -23,7 +23,11 @@
       "target": 30
     }
   ],
-  "progress": {},
+  "progress": {
+    "2026-05-03": {
+      "s1": 3
+    }
+  },
   "notes": {},
   "moods": {},
   "checks": {},
