@@ -30,8 +30,13 @@
     }
   },
   "notes": {},
+  "moods": {},
+  "checks": {
+    "2026-05-02": {}
+  },
   "settings": {
     "reminder_time": "",
-    "child_name": "Fuzayl"
+    "child_name": "Fuzayl",
+    "class_name": ""
   }
 }
