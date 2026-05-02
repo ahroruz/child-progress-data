@@ -17,10 +17,10 @@
     },
     {
       "id": "s3",
-      "name": "Чтение",
+      "name": "Book",
       "icon": "📖",
-      "unit": "страниц",
-      "target": 30
+      "unit": "pages",
+      "target": 20
     }
   ],
   "progress": {
