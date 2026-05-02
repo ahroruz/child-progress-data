@@ -11,9 +11,9 @@
     {
       "id": "s2",
       "name": "Английский",
-      "icon": "A",
-      "unit": "упражнений",
-      "target": 8
+      "icon": "E",
+      "unit": "Tasks",
+      "target": 20
     },
     {
       "id": "s3",
