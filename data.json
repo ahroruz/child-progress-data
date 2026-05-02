@@ -3,16 +3,16 @@
   "subjects": [
     {
       "id": "s1",
-      "name": "Daily math exercises (Newton)",
+      "name": "Daily math exercises",
       "icon": "∑",
       "unit": "exercises",
       "target": 15
     },
     {
       "id": "s2",
-      "name": "English Homework",
+      "name": "English vocabulary",
       "icon": "A",
-      "unit": "exercises",
+      "unit": "words",
       "target": 8
     },
     {
