@@ -3,7 +3,7 @@
   "subjects": [
     {
       "id": "s1",
-      "name": "Daily math exercises",
+      "name": "Daily math exercises (Newton)",
       "icon": "∑",
       "unit": "exercises",
       "target": 15
