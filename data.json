@@ -61,7 +61,8 @@
   },
   "checks": {
     "2026-05-02": {
-      "reading": true
+      "reading": true,
+      "on_time": true
     }
   },
   "settings": {
