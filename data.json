@@ -23,7 +23,11 @@
       "target": 30
     }
   ],
-  "progress": {},
+  "progress": {
+    "2026-05-02": {
+      "s1": 10
+    }
+  },
   "notes": {},
   "settings": {
     "reminder_time": "",
