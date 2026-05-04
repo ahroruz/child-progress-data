@@ -28,6 +28,13 @@
       "name": "Qur'an memorization",
       "target": 7,
       "unit": "lines"
+    },
+    {
+      "id": "s1777866168923",
+      "icon": "✦",
+      "name": "SAT English vocabulary",
+      "target": 57,
+      "unit": "words"
     }
   ],
   "progress": {},
