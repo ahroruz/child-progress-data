@@ -45,7 +45,12 @@
   "moods": {
     "2026-05-04": "good"
   },
-  "checks": {},
+  "checks": {
+    "2026-05-04": {
+      "tidy": true,
+      "kindness": true
+    }
+  },
   "settings": {
     "reminder_time": "22:45",
     "child_name": "Imron",
