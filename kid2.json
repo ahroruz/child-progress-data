@@ -42,7 +42,9 @@
     }
   },
   "notes": {},
-  "moods": {},
+  "moods": {
+    "2026-05-04": "good"
+  },
   "checks": {},
   "settings": {
     "reminder_time": "22:45",
