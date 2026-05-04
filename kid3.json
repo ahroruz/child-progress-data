@@ -10,10 +10,10 @@
     },
     {
       "id": "s2",
-      "name": "Английский",
+      "name": "SAT English",
       "icon": "A",
-      "unit": "упражнений",
-      "target": 8
+      "unit": "exercises",
+      "target": 70
     },
     {
       "id": "s3",
