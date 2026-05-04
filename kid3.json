@@ -35,6 +35,13 @@
       "name": "SAT English vocabulary",
       "target": 57,
       "unit": "words"
+    },
+    {
+      "id": "s1777866456545",
+      "icon": "✦",
+      "name": "Arab vocabulary",
+      "target": 10,
+      "unit": "words"
     }
   ],
   "progress": {},
