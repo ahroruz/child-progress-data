@@ -85,6 +85,12 @@
       "homework": true,
       "kindness": true,
       "tidy": true
+    },
+    "2026-05-04": {
+      "on_time": true,
+      "homework": true,
+      "tidy": true,
+      "kindness": true
     }
   },
   "settings": {
