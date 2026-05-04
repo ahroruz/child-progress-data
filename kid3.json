@@ -54,7 +54,9 @@
   },
   "notes": {},
   "moods": {},
-  "checks": {},
+  "checks": {
+    "2026-05-05": {}
+  },
   "settings": {
     "reminder_time": "23:00",
     "child_name": "Комрон",
