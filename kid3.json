@@ -3,10 +3,10 @@
   "subjects": [
     {
       "id": "s1",
-      "name": "Математика",
+      "name": "SAT Math",
       "icon": "∑",
       "unit": "заданий",
-      "target": 10
+      "target": 50
     },
     {
       "id": "s2",
