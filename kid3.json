@@ -17,10 +17,10 @@
     },
     {
       "id": "s3",
-      "name": "Чтение",
+      "name": "Qur'an reading",
       "icon": "📖",
-      "unit": "страниц",
-      "target": 30
+      "unit": "pages",
+      "target": 10
     }
   ],
   "progress": {},
