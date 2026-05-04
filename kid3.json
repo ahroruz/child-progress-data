@@ -44,7 +44,11 @@
       "unit": "words"
     }
   ],
-  "progress": {},
+  "progress": {
+    "2026-05-05": {
+      "s2": 7
+    }
+  },
   "notes": {},
   "moods": {},
   "checks": {},
