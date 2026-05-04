@@ -21,6 +21,13 @@
       "icon": "📖",
       "unit": "pages",
       "target": 10
+    },
+    {
+      "id": "s1777866044105",
+      "icon": "✦",
+      "name": "Qur'an memorization",
+      "target": 7,
+      "unit": "lines"
     }
   ],
   "progress": {},
