@@ -110,7 +110,9 @@
     "2026-05-05": {
       "on_time": true,
       "homework": true,
-      "reading": true
+      "reading": true,
+      "kindness": true,
+      "tidy": true
     }
   },
   "settings": {
