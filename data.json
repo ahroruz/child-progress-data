@@ -121,6 +121,13 @@
       "reading": true,
       "kindness": true,
       "tidy": true
+    },
+    "2026-05-07": {
+      "on_time": true,
+      "homework": true,
+      "reading": true,
+      "tidy": true,
+      "kindness": true
     }
   },
   "settings": {
