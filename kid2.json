@@ -68,7 +68,8 @@
     },
     "2026-05-07": {
       "on_time": true,
-      "homework": true
+      "homework": true,
+      "kindness": true
     }
   },
   "settings": {
