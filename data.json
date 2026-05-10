@@ -90,7 +90,7 @@
       "s3": 10,
       "s1777746857698": 1,
       "s1777747079383": 3,
-      "s1777747163819": 4
+      "s1777747163819": 5
     }
   },
   "notes": {
@@ -138,6 +138,11 @@
       "reading": true,
       "tidy": true,
       "kindness": true
+    },
+    "2026-05-10": {
+      "on_time": true,
+      "homework": true,
+      "reading": true
     }
   },
   "settings": {
