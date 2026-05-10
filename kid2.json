@@ -28,6 +28,13 @@
       "name": "Vocabulary - SAT",
       "target": 30,
       "unit": "words"
+    },
+    {
+      "id": "s1778437124304",
+      "icon": "📺",
+      "name": "Сериал",
+      "target": 20,
+      "unit": "минут"
     }
   ],
   "progress": {
