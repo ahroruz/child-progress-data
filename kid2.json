@@ -35,6 +35,13 @@
       "name": "Сериал",
       "target": 20,
       "unit": "минут"
+    },
+    {
+      "id": "s1778521777390",
+      "icon": "🧎",
+      "name": "Namoz",
+      "target": 5,
+      "unit": "maxal"
     }
   ],
   "progress": {
