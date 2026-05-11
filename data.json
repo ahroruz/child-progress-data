@@ -151,6 +151,13 @@
       "on_time": true,
       "homework": true,
       "reading": true
+    },
+    "2026-05-11": {
+      "on_time": true,
+      "homework": true,
+      "reading": true,
+      "tidy": true,
+      "kindness": true
     }
   },
   "settings": {
