@@ -42,6 +42,13 @@
       "name": "Arab vocabulary",
       "target": 10,
       "unit": "words"
+    },
+    {
+      "id": "s1778480111558",
+      "icon": "✦",
+      "name": "Saodat asri",
+      "target": 20,
+      "unit": "pages"
     }
   ],
   "progress": {
