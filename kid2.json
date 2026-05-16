@@ -3,7 +3,7 @@
   "subjects": [
     {
       "id": "s2",
-      "name": "SAT-English",
+      "name": "SAT(English/Math)",
       "icon": "E",
       "unit": "Tasks",
       "target": 20
@@ -82,6 +82,9 @@
       "s2": 20,
       "s1778437124304": 20,
       "s1778521777390": 4
+    },
+    "2026-05-16": {
+      "s2": 20
     }
   },
   "notes": {
