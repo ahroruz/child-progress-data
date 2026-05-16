@@ -2,13 +2,6 @@
   "version": 2,
   "subjects": [
     {
-      "id": "s1",
-      "name": "SAT-Maths",
-      "icon": "∑",
-      "unit": "заданий",
-      "target": 20
-    },
-    {
       "id": "s2",
       "name": "SAT-English",
       "icon": "E",
